@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi Man 👋
 
-<!--
-**zhouxionn95/zhouxionn95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+function MixedEffects() {
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+}
+MixedEffects.g_nLowDifference = 50
+MixedEffects.g_nUpDifference = 50;
+MixedEffects.g_caniusearea = false
+MixedEffects.g_area = 100
+MixedEffects.g_caniusesmooth = false
+MixedEffects.g_smooth = 5
+```
